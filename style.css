@@ -17,8 +17,9 @@ body {
 }
 
 .logo {
-  width: 90px;
-  margin-bottom: 20px;
+  width: 100px;
+  display: block;
+  margin: 20px auto;
 }
 
 h1 {
