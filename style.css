@@ -17,15 +17,15 @@ body {
 }
 
 .logo {
-  width: 180px;
+  width: 220px;
   display: block;
-  margin: 60px auto 20px;
+  margin: 100px auto 60px;
   opacity: 0.9;
 }
 
 h1 {
-  font-size: 80px;
-  margin: 20px 0;
+  font-size: 40px;
+  margin: 10px 0;
 }
 
 .tagline {
